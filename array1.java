@@ -5,3 +5,4 @@ public class array1 {
         int numb[]= {10};
     }
 }
+//heyy
